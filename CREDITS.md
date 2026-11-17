@@ -9,6 +9,7 @@
 | factory.jpg | Photo by juanma martínez on Pexels — https://www.pexels.com/photo/blue-and-yellow-wall-of-warehouse-18709802/ |
 | facility.jpg | Photo by YIHAI LASER on Pexels — https://www.pexels.com/photo/industrial-cnc-machines-in-warehouse-38852437/ |
 | quality.jpg | Photo by FFD Restorations on Pexels — https://www.pexels.com/photo/close-up-of-workshop-tools-16630111/ |
+| main.jpg | Photo by YIHAI LASER on Pexels — https://www.pexels.com/photo/industrial-cnc-machines-in-warehouse-38852437/ |
 | subbanner.jpg | Photo by alex on Pexels — https://www.pexels.com/photo/a-water-washing-a-round-steel-machine-11951233/ |
 
 사진 속 장소·물건은 가상 회사 '새벽정밀'과 관계없다.
